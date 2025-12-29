@@ -1,0 +1,32 @@
+# Terraria Server Configuration File
+# هر خط که با # شروع میشه، کامنت هست
+
+# پورت اتصال بازیکنان
+port=7777
+
+# حداکثر بازیکن
+maxplayers=4
+
+# نام سرور که تو لیست سرور ظاهر میشه
+worldname=FarnixWorld
+
+# پسورد سرور (اگر نمیخوای پسورد داشته باشه خالی بذار)
+password=
+
+# فایل مپ سرور
+world=PEDARBOZORG_&_BABABOZORG.wld
+
+# Crossplay: Windows, Mobile, Console
+autocreateworld=false
+
+# Auto Save هر چند دقیقه
+autosave=5
+
+# حالت PVP فعال باشه یا نه
+pvp=true
+
+# Seed دنیای جدید (اگر autocreateworld=true)
+seed=123456
+
+# Language (en, fa, etc.)
+language=en
